@@ -1,5 +1,10 @@
-# Getting Started with Create React App
+Foodfinda is a simple project to find a restaurant by location or cuisine.
+This app is written in React.
+\foodfinda\layout_html&css\temp - example layout
 
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

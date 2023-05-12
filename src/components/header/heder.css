@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  height: 100px;
+}
+
+.logo {
+  width: 100px;
+  height: 37.65px;
+}
+
+
+.menu_header ul {
+  display: flex;
+  flex-direction: row;
+}
